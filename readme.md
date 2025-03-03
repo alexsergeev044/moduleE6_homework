@@ -12,10 +12,14 @@
 
 Для запуска сервера необходим IDE (я использую PyCharm), в котором установить фреймворк Django  
 и следующие библиотеки:  
-pip install django==3.2  
+pip install django
+
 pip install djangorestframework
+
 pip install django-cors-headers
+
 pip install easy-thumbnails
+
 pip install channels
   
 
