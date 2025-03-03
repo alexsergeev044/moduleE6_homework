@@ -15,8 +15,9 @@
 pip install django==3.2  
 pip install djangorestframework==3.13.1  
 pip install django-cors-headers==3.11.0  
-pip install easy-thumbnails==2.8.1  
-pip install channels==3.0.3  
+pip install easy-thumbnails==2.10
+pip install channels==4.2.0
+  
 
 Или установить все нужные библиотеки командой:  
 pip install -r requirements.txt  
